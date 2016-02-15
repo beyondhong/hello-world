@@ -2,6 +2,7 @@
 
 int main()
 {
-  printf("Hello github world!\n");
-  return 0;
+  	printf("Hello github world!\n");
+  	printf("in linux sys, modify hello.c\n");
+	return 0;
 }
